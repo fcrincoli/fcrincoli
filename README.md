@@ -11,7 +11,7 @@
 <h2>⚡ Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/840294c9-511f-429b-b9b1-90970dfca30d/public_url)
-- [CompTIA Cybsecurity Analyst](https://www.credly.com/badges/efa69782-8eb1-465e-b479-f97082d21de8/public_url)
+- [CompTIA Cybsecurity Analyst (CySA+)](https://www.credly.com/badges/efa69782-8eb1-465e-b479-f97082d21de8/public_url)
 
 <h2> 🤳 Connect with me</h2>
 
